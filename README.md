@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">💻 Graduando em Análise e Desenvolvimento de Sistemas 3/5<br>📊 Cursando Python Data Analitycs <br>🦾 Machine Learning</h4>
+<h4 align="left">💻 Graduando em Análise e Desenvolvimento de Sistemas 3/5<br>📊Python Data Analitycs <br>🦾 Machine Learning</h4>
 
 ###
 
